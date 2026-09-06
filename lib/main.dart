@@ -310,7 +310,7 @@ class PortfolioScreen extends StatelessWidget {
                           height: 330,
                           color: const Color(0xFFF5EFEB),
                           child: Image.asset(
-                            'assets/images/PostPhoto.png',
+                            'assets/images/Postphoto.png',
                             fit: BoxFit.cover,
                             errorBuilder: (context, error, stackTrace) {
                               return Container(
